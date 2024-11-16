@@ -1,0 +1,5 @@
+ This is Read File data from input.txt file
+
+This is append text file
+
+Date created Fri Nov 15 2024 19:36:31 GMT+0600 (Bangladesh Standard Time)
